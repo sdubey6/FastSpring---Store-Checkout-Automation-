@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automationsuite" configfailurepolicy="continue" parallel="none">
+ <test name="testngTest">
+ <classes>
+ <class name="com.fastspring.testcase.Test_Cart_Checkout"/>
+ </classes>
+ </test>
+</suite>
