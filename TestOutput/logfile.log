@@ -1,0 +1,20 @@
+2018-04-30 15:17:34.391 [main] INFO  com.fastspring.utilities.Log - $$$$$$ Cart Check out Tests  Started
+2018-04-30 15:17:47.184 [main] INFO  com.fastspring.utilities.Log - Launch URL - Complete
+2018-04-30 15:17:49.930 [main] INFO  com.fastspring.utilities.Log - Change country from USA to Mexico  - Complete
+2018-04-30 15:17:51.406 [main] INFO  com.fastspring.utilities.Log - Change country from Mexico to USA  - Complete
+2018-04-30 15:17:55.531 [main] INFO  com.fastspring.utilities.Log - fillCheckoutDetails - Complete
+2018-04-30 15:17:56.411 [main] INFO  com.fastspring.utilities.Log - Tax verification  - Completed
+2018-04-30 15:18:04.228 [main] INFO  com.fastspring.utilities.Log - Submit Payment  - Passed
+2018-04-30 15:18:04.444 [main] INFO  com.fastspring.utilities.Log - Verify Page Title - Complete
+2018-04-30 15:18:04.495 [main] INFO  com.fastspring.utilities.Log - $$$$$$ Cart_Checkout  Ended
+2018-04-30 15:18:04.511 [main] INFO  com.fastspring.utilities.Log - ============================================================
+2018-04-30 15:24:36,017 INFO  [Log] $$$$$$ Cart Check out Tests  Started 
+2018-04-30 15:24:46,152 INFO  [Log] Launch URL - Complete 
+2018-04-30 15:24:46,840 INFO  [Log] Verify Page Title - Complete 
+2018-04-30 15:24:48,645 INFO  [Log] Change country from USA to Mexico  - Complete 
+2018-04-30 15:24:49,999 INFO  [Log] Change country from Mexico to USA  - Complete 
+2018-04-30 15:24:53,206 INFO  [Log] fillCheckoutDetails - Complete 
+2018-04-30 15:24:54,230 INFO  [Log] Tax verification  - Completed 
+2018-04-30 15:24:59,691 INFO  [Log] Submit Payment  - Passed 
+2018-04-30 15:24:59,794 INFO  [Log] $$$$$$ Cart_Checkout  Ended 
+2018-04-30 15:24:59,794 INFO  [Log] ============================================================ 

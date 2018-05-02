@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [Automationsuite]" junit="false" parallel="none" annotations="JDK">
+  <test name="testngTest(failed)" junit="false" parallel="none" annotations="JDK">
+    <classes>
+      <class name="com.fastspring.testcase.Test_Cart_Checkout">
+        <methods>
+          <include name="terminateBrowser"/>
+          <include name="verifyChangeCountry"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
